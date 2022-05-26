@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">OpenCV Configuration in Android Studio</string>
+    <string name="button">Bitmap draw</string>
+    <string name="activity_bitmap_draw_button2">Line</string>
+    <string name="activity_bitmap_draw_button3">Rectangle</string>
+    <string name="activity_bitmap_draw_button4">Circle</string>
+    <string name="activity_bitmap_draw_button5">Oval</string>
+    <string name="activity_bitmap_draw_button6">Arc</string>
+    <string name="activity_bitmap_draw_button7">Point</string>
+    <string name="activity_bitmap_draw_button8">Round Rect</string>
+    <string name="activity_bitmap_draw_button9">Path</string>
+    <string name="activity_bitmap_draw_button10">Text</string>
+    <string name="activity_bitmap_draw_button11">Color</string>
+    <string name="activity_bitmap_draw_button12">Path</string>
+    <string name="activity_bitmap_draw_button13">Text Run</string>
+
+    <string-array name="Blur">
+        <item>Average blur</item>
+        <item>Gaussian Blur</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="Filter">
+        <item>Median Blur</item>
+        <item>Dilate(Max)</item>
+        <item>Erode(Min)</item>
+    </string-array>
+
+    <string-array name="edge_filtering">
+        <item>Bilateral Filter</item>
+        <item>Mean Shift Filtering</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="gradient">
+        <item>Sobel</item>
+        <item>Scharr</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="laplace_Canny">
+        <item>Laplace</item>
+        <item>Canny(Scharr)</item>
+        <item>Canny(Sobel)</item>
+    </string-array>
+
+    <string-array name="hough">
+        <item>Line 1</item>
+        <item>Line 2</item>
+        <item>Circle</item>
+    </string-array>
+
+    <string-array name="contour">
+        <item>find &amp; draw</item>
+        <item>max &amp; min</item>
+        <item>analysis</item>
+    </string-array>
+
+    <string-array name="harris">
+        <item>Harris</item>
+        <item>Shi-Tomasi</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="haar">
+        <item>face</item>
+        <item>vehicle</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="images_crop">
+        <item>cut</item>
+        <item>reset</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="histograms">
+        <item>gup1</item>
+        <item>gup2</item>
+        <item>gup1 small</item>
+    </string-array>
+</resources>

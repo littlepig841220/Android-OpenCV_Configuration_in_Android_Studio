@@ -1,0 +1,20 @@
+Here have 16 not public image but use in project:
+
+gup1
+gup1_scale1
+gup1_scale2
+gup1_scale3
+gup1_small
+gup2
+hana
+mako
+miho
+panzer
+saori
+shen
+tiger1
+tiger2
+tiger3
+yukari
+
+Please watch demo and replace yours.
