@@ -1,0 +1,2 @@
+# Android-OpenCV_Configuration_in_Android_Studio
+ A sample about OpenCV use on Android(Use Java). Here have some method like Bitmap/Mat drawing, Mat read picture, Blurry, Filter, Edge Filtering, Gradient, Laplace, Canny, Hough Line/Circle, Contour, Model Matching, Harris, Haar, Camera, ORB, BRISK, AKAZE, Histograms. Some image material can not public. Please relpace your owne. The RTSP resource use from Wowza(https://www.wowza.com/developer/rtsp-stream-test) and Freeway Bureau, MOTC.
